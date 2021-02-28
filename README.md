@@ -1,5 +1,7 @@
 # exchange
-
+```
+Proyecto desarrollado en el curso de VUE en PLATZI.
+```
 ## Project setup
 ```
 npm install
